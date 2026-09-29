@@ -17,5 +17,4 @@ public class DoubleExample {
         // Print answer
         System.out.println(answer);
     }
-
 }
