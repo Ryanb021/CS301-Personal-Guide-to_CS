@@ -48,6 +48,30 @@ This section introduces how Java programs receive input and display output. It i
 - Redirection
 - Piping
 
+## Week 3 - Chapter 2: Functions and Modules
+
+### 2.1 – Defining Functions
+
+This section introduces how to create and use methods in Java. It includes:
+
+- Static methods
+- Implementing mathematical functions
+- Using static methods to organize code
+- Passing arguments to methods
+- Returning values from methods
+
+### 2.2 – Libraries and Clients
+
+This section introduces how to reuse methods from other classes and organize programs into smaller parts. It includes:
+
+- Using static methods in other programs
+- Creating and using libraries
+- Generating random numbers
+- Input and output for arrays
+- Iterated function systems
+- Basic statistics
+- Modular programming
+
 ## Purpose
 
 The purpose of this repository is to create a simple computer science reference that I can continue adding to as I learn new concepts.
