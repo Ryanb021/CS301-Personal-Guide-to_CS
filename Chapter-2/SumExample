@@ -1,0 +1,31 @@
+// Mathematical induction is a way to prove that a statement is true for all integers starting from a certain value.
+
+/* It has two steps:
+
+1. Base case: Prove the first case is true.
+
+2. Inductive step: Show that if one case is true, the next case is also true.
+
+Example: The sum of numbers from 1 to n.
+*/
+
+public class SumExample {
+
+    // Find the sum from 1 to n
+    public static int sum (int n) {
+
+        // Base case
+        if (n == 0) {
+            return 0;
+        }
+
+        // Add n to previous sum
+        return n + sum(n -1);
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(sum(5));
+    }
+
+}
