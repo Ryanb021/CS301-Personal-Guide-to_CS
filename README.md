@@ -72,6 +72,22 @@ This section introduces how to reuse methods from other classes and organize pro
 - Basic statistics
 - Modular programming
 
+### 2.3 Recursion
+
+This section introduces how a Java method can call itself to solve smaller problems. It includes:
+
+- Writing a first recursive program
+- Understanding base cases and recursive calls
+- Mathematical induction
+- Euclid's algorithm
+- Function-call trees
+- Gray codes
+- Dynamic programming
+
+### 2.4 Case Study: Percolation
+
+- In progress
+
 ## Purpose
 
 The purpose of this repository is to create a simple computer science reference that I can continue adding to as I learn new concepts.
