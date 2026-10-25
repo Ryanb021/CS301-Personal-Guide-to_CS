@@ -102,6 +102,31 @@ The program includes:
 - Tracking visited cells
 - Displaying whether the grid percolates
 
+## Week 4 - Chapter 3: Object-Oriented Programming
+
+### 3.1 – Using Data Types
+
+This section introduces how Java uses different data types and objects to store and process information. It includes the following Java programs:
+
+- Dog.java – Creates an object and calls an instance method.
+- DNAExample.java – Counts characters in a DNA sequence.
+- ColorExample.java – Creates a color using RGB values.
+- ImageExample.java – Creates and saves a simple image.
+- FileExample.java – Writes information to a text file.
+- ReferenceExample.java – Demonstrates how reference variables work.
+
+### 3.2 – Creating Data Types
+
+This section introduces how to create custom data types using Java classes. It includes the following Java programs:
+
+- Student.java – Creates a student object using a constructor.
+- StopwatchExample.java – Measures how long a program takes to run.
+- HistogramExample.java – Counts how often numbers appear.
+- TurtleExample.java – Demonstrates basic movement using coordinates.
+- ComplexExample.java – Displays a complex number.
+- MandelbrotExample.java – Performs calculations using complex numbers.
+- SalesExample.java – Calculates the total cost of a purchase.
+
 ## Purpose
 
 The purpose of this repository is to create a simple computer science reference that I can continue adding to as I learn new concepts.
