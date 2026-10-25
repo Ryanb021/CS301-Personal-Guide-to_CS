@@ -86,7 +86,21 @@ This section introduces how a Java method can call itself to solve smaller probl
 
 ### 2.4 Case Study: Percolation
 
-- In progress
+This section introduces how percolation works using a simple Java program.
+
+Java Program: Percolation.java
+
+The program uses a two-dimensional array to represent a grid of open and blocked cells. It checks whether water can travel from the top of the grid to the bottom through connected open cells.
+
+The program includes:
+
+- Two-dimensional boolean arrays
+- Nested for loops
+- if statements
+- Recursive methods
+- Checking neighboring cells
+- Tracking visited cells
+- Displaying whether the grid percolates
 
 ## Purpose
 
