@@ -111,7 +111,6 @@ This section introduces how Java uses different data types and objects to store 
 - Dog.java – Creates an object and calls an instance method.
 - DNAExample.java – Counts characters in a DNA sequence.
 - ColorExample.java – Creates a color using RGB values.
-- ImageExample.java – Creates and saves a simple image.
 - FileExample.java – Writes information to a text file.
 - ReferenceExample.java – Demonstrates how reference variables work.
 
@@ -126,6 +125,67 @@ This section introduces how to create custom data types using Java classes. It i
 - ComplexExample.java – Displays a complex number.
 - MandelbrotExample.java – Performs calculations using complex numbers.
 - SalesExample.java – Calculates the total cost of a purchase.
+
+### 3.3 – Designing Data Types
+
+This section introduces how to design Java classes that are organized, reusable, and easy to understand. It includes the following Java programs:
+
+- CalculatorAPI.java – Demonstrates a simple API.
+- BankAccount.java – Uses encapsulation to protect data.
+- ImmutableExample.java – Demonstrates immutable strings.
+- VectorExample.java – Calculates the length of a vector.
+- AnimalExample.java – Demonstrates interfaces.
+- InheritanceExample.java – Demonstrates inheritance.
+- DataMiningExample.java – Calculates an average.
+- ContractExample.java – Checks method arguments.
+
+### 3.4 – Case Study: N-Body Simulation
+
+In Progress.
+
+## Chapter 4: Algorithms and Data
+
+### 4.1 – Performance
+
+In Progress.
+
+### 4.2 – Sorting and Searching
+
+In Progress.
+
+### 4.3 – Stacks and Queues
+
+In Progress.
+
+### 4.4 – Symbol Tables
+
+In Progress.
+
+### 4.5 – Case Study: Small-World Phenomenon
+
+In Progress.
+
+## Chapter 5: Theory of Computing
+
+### 5.1 – Formal Languages
+
+In Progress.
+
+### 5.2 – Turing Machines
+
+In Progress.
+
+### 5.3 – Universality
+
+In Progress.
+
+### 5.4 – Computability
+
+In Progress.
+
+### 5.5 – Intractability
+
+In Progress.
 
 ## Purpose
 
