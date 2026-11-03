@@ -141,25 +141,44 @@ This section introduces how to design Java classes that are organized, reusable,
 
 ### 3.4 – Case Study: N-Body Simulation
 
-In Progress.
+This section introduces how computer programs can simulate the movement of objects. It includes the following Java program:
+
+- NBodyExample.java - A Java program that demonstrates basic movement by updating an object's position over time.
 
 ## Chapter 4: Algorithms and Data
 
 ### 4.1 – Performance
 
-In Progress.
+This section introduces how to measure and understand the performance of algorithms. It includes the following Java programs:
+
+- PerformanceExample.java – Measures program execution time.
+- LinearExample.java – Demonstrates linear processing.
+- MemoryExample.java – Demonstrates array memory usage.
 
 ### 4.2 – Sorting and Searching
 
-In Progress.
+This section introduces algorithms used to find and organize information. It includes the following Java programs:
+
+- BinarySearchExample.java – Searches a sorted array.
+- InsertionSortExample.java – Sorts numbers using insertion sort.
+- MergeSortExample.java – Sorts numbers using mergesort.
+- FrequencyExample.java – Counts how often numbers appear.
 
 ### 4.3 – Stacks and Queues
 
-In Progress.
+This section introduces data structures used to store and process information. It includes the following Java programs:
+
+- StackExample.java – Demonstrates stack operations.
+- ArrayStackExample.java – Creates a stack using an array.
+- LinkedListExample.java – Demonstrates linked lists.
+- ResizingArrayExample.java – Uses a resizing array.
+- GenericExample.java – Demonstrates generics.
+- QueueExample.java – Demonstrates FIFO queues.
+- PrintQueueExample.java – Processes printing jobs.
 
 ### 4.4 – Symbol Tables
 
-In Progress.
+This section introduces how programs store and retrieve information using keys and values. It includes the following Java programs:
 
 ### 4.5 – Case Study: Small-World Phenomenon
 
