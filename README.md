@@ -180,9 +180,20 @@ This section introduces data structures used to store and process information. I
 
 This section introduces how programs store and retrieve information using keys and values. It includes the following Java programs:
 
+- SymbolTableExample.java – Stores key-value pairs.
+- ClientExample.java – Uses a symbol table.
+- SimpleSymbolTable.java – Searches keys using arrays.
+- HashTableExample.java – Demonstrates hash tables.
+- BSTExample.java – Uses an ordered tree map.
+- OrderedTableExample.java – Demonstrates ordered operations.
+- SetExample.java – Stores unique values.
+
 ### 4.5 – Case Study: Small-World Phenomenon
 
-In Progress.
+This section introduces graphs and how they represent connections between objects. It includes the following Java programs:
+
+- GraphExample.java – Creates a simple graph.
+- ShortestPathExample.java – Finds shortest paths using BFS.
 
 ## Chapter 5: Theory of Computing
 
