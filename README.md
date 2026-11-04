@@ -145,7 +145,7 @@ This section introduces how computer programs can simulate the movement of objec
 
 - NBodyExample.java - A Java program that demonstrates basic movement by updating an object's position over time.
 
-## Chapter 4: Algorithms and Data
+## Week 5 - Chapter 4: Algorithms and Data
 
 ### 4.1 – Performance
 
@@ -195,27 +195,68 @@ This section introduces graphs and how they represent connections between object
 - GraphExample.java – Creates a simple graph.
 - ShortestPathExample.java – Finds shortest paths using BFS.
 
-## Chapter 5: Theory of Computing
+## Week 6 - Chapter 5: Theory of Computing
 
 ### 5.1 – Formal Languages
 
-In Progress.
+This section introduces how computers recognize patterns and process strings. It includes the following Java programs:
+
+- RegularLanguageExample.java – Recognizes binary patterns.
+- RegexExample.java – Uses regular expressions.
+- EmailPatternExample.java – Checks a basic email pattern.
+- DFAExample.java – Demonstrates a finite automaton.
+- NFAExample.java – Demonstrates nondeterminism.
+- KleeneExample.java – Recognizes a regular language.
+- PatternExample.java – Validates a text pattern.
 
 ### 5.2 – Turing Machines
 
-In Progress.
+This section introduces Turing machines and how they represent computation. It includes the following Java programs:
+
+- TuringMachineExample.java – Demonstrates reading and writing tape symbols.
+- UniversalMachineExample.java – Demonstrates interpreting simple instructions.
 
 ### 5.3 – Universality
 
-In Progress.
+This section introduces how general-purpose computers can perform different computations. It includes the following Java programs:
+
+- AlgorithmExample.java – Demonstrates a simple algorithm.
+- InterpreterExample.java – Processes a basic instruction.
 
 ### 5.4 – Computability
 
-In Progress.
+This section introduces what computers can and cannot solve using algorithms. It includes the following Java programs:
+
+- InfiniteLoopExample.java – Demonstrates a nonterminating loop.
+- ReductionExample.java – Demonstrates a simple problem transformation.
 
 ### 5.5 – Intractability
 
-In Progress.
+This section introduces problems that can be difficult to solve efficiently. It includes the following Java programs:
+
+- ExponentialExample.java – Demonstrates exponential growth.
+- SATExample.java – Finds a satisfying Boolean assignment.
+- SearchProblemExample.java – Searches for number combinations.
+- PolynomialReductionExample.java – Demonstrates a simple problem transformation.
+- SubsetSumExample.java – Searches for numbers that reach a target.
+- VerifySolution.java – Checks a proposed solution.
+- GreedyExample.java – Demonstrates a greedy approach.
+
+## Week 7 - Chapter 6: A Computing Machine
+
+In progress.
+
+### 6.1 – Representing Information
+In progress.
+
+### 6.2 – TOY Machine
+In progress.
+
+### 6.3 – Machine-Language Programming
+In progress.
+
+### 6.4 – TOY Virtual Machine
+In progress.
 
 ## Purpose
 
