@@ -244,8 +244,6 @@ This section introduces problems that can be difficult to solve efficiently. It 
 
 ## Week 7 - Chapter 6: A Computing Machine
 
-In progress.
-
 ### 6.1 – Representing Information
 In progress.
 
