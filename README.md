@@ -245,16 +245,34 @@ This section introduces problems that can be difficult to solve efficiently. It 
 ## Week 7 - Chapter 6: A Computing Machine
 
 ### 6.1 – Representing Information
-In progress.
+This section introduces how computers represent numbers, characters, and other information using binary. It includes the following Java programs:
+
+- BinaryExample.java – Converts numbers into binary and hexadecimal.
+- ParsingExample.java – Converts strings into integers.
+- IntegerArithmetic.java – Demonstrates integer operations.
+- NegativeNumbers.java – Demonstrates two's complement representation.
+- RealNumbers.java – Performs floating-point calculations.
+- BitExample.java – Demonstrates bitwise operators.
+- CharacterExample.java – Displays character values.
 
 ### 6.2 – TOY Machine
-In progress.
+This section introduces the TOY machine, a simplified computer used to understand how machine instructions work. It includes the following Java programs:
+
+- FetchExample.java – Demonstrates the instruction execution cycle.
+- MachineLoopExample.java – Demonstrates loops and conditionals.
 
 ### 6.3 – Machine-Language Programming
-In progress.
+This section introduces how programming concepts can be implemented using machine instructions. It includes the following Java programs:
+
+- OutputExample.java – Displays information using standard output.
+- InputExample.java – Reads information using Scanner.
+- MachineArrayExample.java – Demonstrates indexed array access.
+- MachineLinkedExample.java – Demonstrates linked structures.
 
 ### 6.4 – TOY Virtual Machine
-In progress.
+This section introduces how software can simulate a computer using memory, registers, and instructions. It includes the following Java program:
+
+- ToyVirtualMachine.java – Demonstrates a simplified virtual machine using registers and arithmetic.
 
 ## Purpose
 
