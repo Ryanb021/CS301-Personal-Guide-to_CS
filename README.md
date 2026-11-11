@@ -274,6 +274,23 @@ This section introduces how software can simulate a computer using memory, regis
 
 - ToyVirtualMachine.java – Demonstrates a simplified virtual machine using registers and arithmetic.
 
+## Week  - Chapter : Building a Computing Device
+
+### 7.1 – Boolean Logic
+This section introduces how computers use true and false values to perform logical operations and make decisions. It includes the following Java programs:
+
+- BooleanExample.java – Demonstrates AND, OR, and NOT operations.
+- AccessExample.java – Uses Boolean logic to check access permissions.
+- MultipleBooleanExample.java – Combines three Boolean variables.
+
+### 7.2 – Basic Circuit Model
+This section introduces how electronic circuits use wires, switches, and logic gates to process information. It includes the following Java programs:
+
+- WireExample.java – Demonstrates a digital signal.
+- SwitchExample.java – Demonstrates a controlled switch.
+- CircuitExample.java – Simulates an AND gate.
+- LogicDesignExample.java – Uses Boolean logic to simulate a simple circuit.
+
 ## Purpose
 
 The purpose of this repository is to create a simple computer science reference that I can continue adding to as I learn new concepts.
