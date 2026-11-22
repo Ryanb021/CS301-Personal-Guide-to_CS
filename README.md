@@ -301,7 +301,7 @@ This section introduces how logic gates work together to perform operations. Com
 - AdderExample.java – Demonstrates binary addition using sum and carry bits.
 - ALUExample.java – Demonstrates arithmetic and logical operations.
 
-### Sequential Circuits
+### 7.4 - Sequential Circuits
 This section introduces how circuits store information and use previous states to perform operations. It includes the following Java programs:
 
 - FlipFlopExample.java – Demonstrates storing and updating a single bit.
@@ -309,7 +309,7 @@ This section introduces how circuits store information and use previous states t
 - MemoryExample.java – Demonstrates storing and retrieving values from memory.
 - ClockExample.java – Demonstrates basic clock cycles.
 
-### Digital Devices
+### 7.5 - Digital Devices
 This section introduces how digital components work together to build a computing device. It uses TOY-8 to demonstrate how a processor executes instructions and processes information. It includes the following Java programs:
 
 - Toy8Warmup.java – Demonstrates basic 8-bit arithmetic.
