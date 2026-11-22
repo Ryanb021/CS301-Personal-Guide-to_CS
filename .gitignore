@@ -1,0 +1,30 @@
+# Compiled Java files
+*.class
+
+# Build directories
+bin/
+out/
+build/
+target/
+
+# VS Code settings
+.vscode/
+
+# Java archive files
+*.jar
+*.war
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
