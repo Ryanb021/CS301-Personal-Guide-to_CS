@@ -291,6 +291,30 @@ This section introduces how electronic circuits use wires, switches, and logic g
 - CircuitExample.java – Simulates an AND gate.
 - LogicDesignExample.java – Uses Boolean logic to simulate a simple circuit.
 
+### 7.3 – Combinational Circuits
+This section introduces how logic gates work together to perform operations. Combinational circuits produce outputs based on their current inputs without storing previous information. It includes the following Java programs:
+
+- GatesExample.java – Demonstrates basic logic gate operations.
+- CombinedGates.java – Combines multiple logic gates.
+- MuxExample.java – Demonstrates how a multiplexer selects an input.
+- SumOfProducts.java – Combines AND and OR operations.
+- AdderExample.java – Demonstrates binary addition using sum and carry bits.
+- ALUExample.java – Demonstrates arithmetic and logical operations.
+
+### Sequential Circuits
+This section introduces how circuits store information and use previous states to perform operations. It includes the following Java programs:
+
+- FlipFlopExample.java – Demonstrates storing and updating a single bit.
+- RegisterExample.java – Demonstrates storing a value in a register.
+- MemoryExample.java – Demonstrates storing and retrieving values from memory.
+- ClockExample.java – Demonstrates basic clock cycles.
+
+### Digital Devices
+This section introduces how digital components work together to build a computing device. It uses TOY-8 to demonstrate how a processor executes instructions and processes information. It includes the following Java programs:
+
+- Toy8Warmup.java – Demonstrates basic 8-bit arithmetic.
+- Toy8Program.java – Simulates adding and storing values using registers.
+
 ## Purpose
 
 The purpose of this repository is to create a simple computer science reference that I can continue adding to as I learn new concepts.
